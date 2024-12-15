@@ -4,7 +4,7 @@ Helpful custom content filter lists for hiding specific contents of web-pages (w
 
 ## How to use
 
-Go to Brave "Content filters" settings, and copy-paste the URL of a `.txt` file (e.g. `https://github.com/liamperritt/brave-content-filters/blob/main/instagram_dms_and_stories_only.txt`) from this repo into the "Add custom filter list" URL text field, then click "Add".
+Go to Brave "Content filters" settings, and copy-paste the URL of a `.txt` file (e.g. `https://raw.githubusercontent.com/liamperritt/brave-content-filters/refs/heads/main/instagram_dms_and_stories_only.txt`) from this repo into the "Add custom filter list" URL text field, then click "Add".
 
 ## Available filter lists
 
