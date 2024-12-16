@@ -12,7 +12,7 @@ Go to Brave "Content filters" settings, and copy-paste the URL of the raw conten
 
 **Link to raw file:** [InstagramWithoutDoomScrolling.txt](https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramWithoutDoomScrolling.txt)
 
-This list filters out all Instagram web app content except for Instagram DMs and Stories, helping you reclaim your time, stay connected, and avoid endless doom scrolling.
+This list filters out all Instagram web app content except for Instagram DMs and Stories, helping you reclaim your time and avoid the endless doom scrolling.
 
 For best Instagram app experience on Android and Desktop:
 1. In the Brave browser, add this list as a "custom filter list" (see 'how-to' above)
