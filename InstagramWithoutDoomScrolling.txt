@@ -1,3 +1,7 @@
+! Title: Instagram Without Doom Scrolling filter list
+! Description: This list filters out all Instagram web app content except for Instagram DMs and Stories, helping you reclaim your time, stay connected, and avoid endless doom scrolling
+! Homepage: https://github.com/liamperritt/timesaving-adblock-filters/blob/main/README.md#instagram-without-doom-scrolling
+
 www.instagram.com##.x1nhvcw1.x1oa3qoh.x6s0dn4.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
 www.instagram.com##._abpk._acc8
 www.instagram.com##.xh8yej3.xaw8158.x78zum5 > div > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x
