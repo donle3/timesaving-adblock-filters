@@ -15,7 +15,7 @@ Go to "Brave Shields & privacy > Content filters" in the Brave settings, and cop
 This list filters out all Instagram web app content except for Instagram DMs and Stories, helping you reclaim your time and avoid the endless doom scrolling.
 
 For best Instagram app experience on Android and Desktop:
-1. In the Brave browser, add the URL for list as a "custom filter list" (see 'how-to' above)
+1. In the Brave browser, add the URL for this list as a "custom filter list" (see 'how-to' above)
 2. Visit and log in to the Instagram website
 3. In the Brave options menu, select the "Add to home screen" option and install
 4. Open the newly-installed Instagram PWA from your homescreen and accept the prompt to enable notifications from Instagram
