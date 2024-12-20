@@ -4,13 +4,13 @@ Time-saving content filter lists for hiding specific contents of web-pages (with
 
 ## How to use in Brave browser
 
-Go to "Brave Shields & privacy > Content filters" in the Brave settings, and copy-paste the URL of the raw content of a list file from this repo (e.g. `https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramWithoutDoomScrolling.txt`) into the "Add custom filter list" URL text field, then click "Add".
+Go to "Brave Shields & privacy > Content filters" in the Brave settings, and copy-paste the URL of the raw content of a list file from this repo (e.g. `https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt`) into the "Add custom filter list" URL text field, then click "Add".
 
 ## Available filter lists
 
-### Instagram Without Doom Scrolling
+### Instagram Anti-Doom Scrolling
 
-**Raw file URL:** https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramWithoutDoomScrolling.txt
+**Raw file URL:** https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt
 
 This list filters out all Instagram web app content except for Instagram DMs and Stories, helping you reclaim your time and avoid the endless doom scrolling.
 
