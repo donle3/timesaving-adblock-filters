@@ -1,4 +1,4 @@
-! Title: Instagram Without Doom Scrolling
+! Title: Instagram Anti-Doom Scrolling
 ! Description: This list filters out all Instagram web app content except for Instagram DMs and Stories, helping you stay connected while avoiding the endless doom scrolling
 ! Homepage: https://github.com/liamperritt/timesaving-adblock-filters/blob/main/README.md#instagram-without-doom-scrolling
 
