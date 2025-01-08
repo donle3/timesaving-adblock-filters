@@ -6,7 +6,7 @@ Time-saving content filter lists for hiding specific contents of web-pages (with
 
 Go to "Shields & privacy > Content filters" (Brave) or "Tracker and Ad Blocking > Manage Ad Blocking Sources" (Vivaldi) in the browser settings, and copy-paste the URL of the raw content of a list file from this repo (e.g. `https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt`) into the "Add" URL text field, then click "Add/Import".
 
-For use in the uBlock Origin or Adblock browser extensions for Chrome, Chromium or Firefox, consult the relevant online documenation.
+For use in the uBlock Origin or Adblock browser extensions for Chrome, Chromium or Firefox, consult the relevant online documentation.
 
 ## Available filter lists
 
