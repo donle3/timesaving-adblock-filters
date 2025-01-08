@@ -19,7 +19,7 @@ This list filters out all Instagram web app content that leads to endless doom s
 For best Instagram app experience on Android and Desktop:
 1. In the Brave or Vivaldi browser, add the URL for this list as a "custom filter list" (see 'how-to' above)
 2. Visit and log in to the Instagram website
-3. In the Brave options menu, select the "Add to home screen" option and install
+3. In the browser options menu, select the "Add to home screen" option and install
 4. Open the newly-installed Instagram PWA from your homescreen and accept the prompt to enable notifications from Instagram
 6. In Instagram "Notifications > Push Notifications" settings, turn off all push notifications except for "Messages from individual and group chats".
 
