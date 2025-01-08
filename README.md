@@ -10,7 +10,7 @@ For use in the uBlock Origin or Adblock browser extensions for Firefox or Chrome
 
 ## Available filter lists
 
-### 1. Instagram Anti-Doom Scrolling
+### Instagram Anti-Doom Scrolling
 
 **Raw file URL:** https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt
 
@@ -25,7 +25,7 @@ For best Instagram app experience on Android and Desktop:
 
 You'll now have a nicely-functioning version of the Instagram app that lets you stay connected with your friends without all the time-wasting content.
 
-### 2. Instagram Anti-Distractions
+### Instagram Anti-Distractions
 
 **Raw file URL:** https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDistractions.txt
 
