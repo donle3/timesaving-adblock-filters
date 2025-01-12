@@ -20,7 +20,7 @@ For best Instagram app experience on Android and Desktop:
 1. In the Brave or Vivaldi browser, add the URL for this list as a "custom filter list" (see 'how-to' above)
 2. Visit and log in to the Instagram website
 3. In the browser options menu, select the "Add to home screen" option and install
-4. Open the newly-installed Instagram PWA from your homescreen and accept the prompt to enable notifications from Instagram
+4. Open the newly-installed Instagram PWA (Progressive Web App) from your homescreen and accept the prompt to enable notifications from Instagram
 6. In Instagram "Notifications > Push Notifications" settings, turn off all push notifications except for "Messages from individual and group chats".
 
 You'll now have a nicely-functioning version of the Instagram app that lets you stay connected with your friends without all the time-wasting content.
@@ -31,4 +31,4 @@ You'll now have a nicely-functioning version of the Instagram app that lets you 
 
 This list filters out Instagram web app content that most users find distracting, such as Notes, notification markers, pop-ups, clutter, etc.
 
-Use in conjuction with the Instagram Anti-Doom Scrolling filter list for the most time-saving version of the Instagram web app. See the previous section's instructions on how to set up an Instagram Progressive Web App (PWA) for the best experience on Android and Desktop.
+Use in conjuction with the Instagram Anti-Doom Scrolling filter list for the most time-saving version of the Instagram web app. See the previous section's instructions on how to set up an Instagram PWA (Progressive Web App) for the best experience on Android and Desktop.
