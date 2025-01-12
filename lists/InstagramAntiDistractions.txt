@@ -1,6 +1,7 @@
 ! Title: Instagram Anti-Distractions
 ! Description: This list filters out Instagram web app content that most users find distracting, such as Notes, notification markers, pop-ups, clutter, etc.
 ! Homepage: https://github.com/liamperritt/timesaving-adblock-filters/blob/main/README.md#instagram-anti-distractions
+! Version: 2025.1.1
 
 www.instagram.com##._abpk._acc8
 www.instagram.com##.x1qiirwl.x10l6tqk.x8fncvn
