@@ -1,9 +1,12 @@
 ! Title: Instagram Anti-Doom Scrolling
 ! Description: This list filters out all Instagram web app content that leads to endless doom scrolling, such as the Feed, Search and Reels, helping you stay connected while avoiding the time-wasting scrolling.
 ! Homepage: https://github.com/liamperritt/timesaving-adblock-filters/blob/main/README.md#instagram-anti-doom-scrolling
-! Version: 2025.2.1
+! Version: 2025.2.2
 
 www.instagram.com##.x1nhvcw1.x1oa3qoh.x6s0dn4.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619 > .x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
+www.instagram.com##.x1ugxg0y.x7flfwp.x1e49onv.x16mfq2j.x103t36t.xmjrnx3.xhae0no.x19b80pe.xh8yej3.x1ykew4q.x1gryazu.x4n8cb0.xkrivgy.xdj266r.x1iyjqo2.xdt5ytf.x78zum5
+www.instagram.com##.x1n2onr6.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.xvbhtw8 > .x11njtxf.x1n2onr6.xdt5ytf.x78zum5.x9f619.x1qjc9v5
+www.instagram.com##.xq70431.xfk6m8.xh8yej3.x5ve5x3.x13vifvy.x1rohswg.xixxii4.x1rife3k.x17qophe.xilefcg > div
 www.instagram.com##.xh8yej3.xaw8158.x78zum5 > div:nth-of-type(2)
 www.instagram.com##.xh8yej3.xaw8158.x78zum5 > div:nth-of-type(3)
 
