@@ -2,6 +2,8 @@
 
 Time-saving content filter lists for hiding specific contents of web-pages (with Brave, Vivaldi, uBlock Origin, Adblock, etc.).
 
+This fork fixes some filters (e.g. Instagram homepage feed) from the original repo: https://github.com/liamperritt/timesaving-adblock-filters
+
 ## How to use in Brave or Vivaldi browser
 
 Go to "Shields & privacy > Content filters" (Brave) or "Tracker and Ad Blocking > Manage Ad Blocking Sources" (Vivaldi) in the browser settings, and copy-paste the URL of the raw content of a list file from this repo (e.g. `https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt`) into the "Add" URL text field, then click "Add/Import".
@@ -26,6 +28,8 @@ For best Instagram app experience on Android and Desktop:
 You'll now have a nicely-functioning version of the Instagram app that lets you stay connected with your friends without all the time-wasting content.
 
 ### Instagram Anti-Distractions
+
+(Note: currently this list from the original repo is not fully functional)
 
 **Raw file URL:** https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDistractions.txt
 
