@@ -12,7 +12,7 @@ For use in the uBlock Origin or Adblock browser extensions for Firefox or Chrome
 
 ### Instagram Anti-Doom Scrolling
 
-**Raw file URL:** https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt
+**Raw file URL:** https://raw.githubusercontent.com/donle3/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt
 
 This list filters out all Instagram web app content that leads to endless doom scrolling, such as the Feed, Search and Reels, helping you stay connected while avoiding the time-wasting scrolling.
 
