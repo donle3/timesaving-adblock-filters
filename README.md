@@ -10,6 +10,10 @@ Go to "Shields & privacy > Content filters" (Brave) or "Tracker and Ad Blocking 
 
 For use in the uBlock Origin or Adblock browser extensions for Firefox or Chrome/Chromium-based browsers, consult the relevant online documentation.
 
+## uBlock Origin Extension
+
+To import a filter list in uBlock Origin, go to the extension's Settings > Filter Lists tab, scroll down and select Import, then paste the URL.
+
 ## Available filter lists
 
 ### Instagram Anti-Doom Scrolling
@@ -48,6 +52,12 @@ For mobile devices:
     1. Switch ON Desktop Site
     2. Add Page to Home Screen (should pop up option to install)
     3. Switch OFF Desktop Site (i.e. back to the mobile version of the site)
+  
+#### iOS
+Unfortunately I have no way to test the filters myself on an iOS device, but supposedly you can import the filter lists with the [AdGuard Safari Extension](https://apps.apple.com/us/app/adguard-adblock-privacy-dns/id1047223162) as a custom filter list. For Youtube ad blocking purposes, you may also need the [uBlock Origin Lite Extension](https://apps.apple.com/us/app/ublock-origin-lite/id6745342698).
+
+#### Android
+For Android, there are honestly better alternatives than the PWA + content filter approach. Brave and Vivaldi don't do a great job with blocking Youtube's ads, so for Android I recommend an open-source client like [NewPipe](https://github.com/TeamNewPipe/Newpipe), where you can configure feed and display settings with similar or better results than the filters below. NewPipe doesn't have an option to log into your Youtube account, but you can "subscribe" to channels and make playlists locally in the app without an account. If you must be able to use your Youtube account, Firefox + uBlock + Filter Lists is probably the next best option.
 
 ### Youtube Mobile Filters
 
