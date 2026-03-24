@@ -1,0 +1,39 @@
+! Title: Youtube Mobile Filters
+! Description: Removes algorithm-based scrolling feeds and reduces shorts appearances.
+! Homepage: https://github.com/donle3/timesaving-adblock-filters/blob/main/README.md
+! Version: 2026.3.23
+
+! SCROLLING FEEDS
+
+! home page feed
+m.youtube.com##div[tab-title="Home"]
+! related videos section (below video player)
+m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"]
+
+! SHORTS APPEARANCES
+
+! shorts icon (nav bar)
+m.youtube.com##.pivot-shorts.pivot-bar-item-tab
+! shorts shelf (search)
+m.youtube.com##grid-shelf-view-model
+! shorts shelf (subscriptions)
+m.youtube.com##ytm-reel-shelf-renderer
+! shorts singleton (search)
+m.youtube.com##ytm-media-item[class="big-shorts-singleton"]
+
+! I'll leave the ability to access shorts via direct link or
+! through a channel's shorts tab, since accessing them that way
+! is more intentional at least
+
+! SHORTS PLAYER PAGE
+
+! shorts page: subsequent videos (this filter lets you watch *A* short,
+! but blacks out subsequent videos after scrolling). unfortunately can be
+! somewhat undermined by reloading page, but hopefully adds enough
+! friction/clunkiness to give you time to think about what you're doing
+m.youtube.com##.carousel-item.ytShortsCarouselCarouselItem[aria-hidden="true"]
+
+! (disabled) strictly blocks connection to any shorts page
+! only works on page reload, since yt updates page dynamically rather than
+! opening a new page. $all/$doc only works for redirections/new page loads
+! youtube.com/shorts/$all
