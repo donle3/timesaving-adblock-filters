@@ -36,3 +36,22 @@ You'll now have a nicely-functioning version of the Instagram app that lets you 
 This list filters out Instagram web app content that most users find distracting, such as Notes, notification markers, pop-ups, clutter, etc.
 
 Use in conjuction with the Instagram Anti-Doom Scrolling filter list for the most time-saving version of the Instagram web app. See the previous section's instructions on how to set up an Instagram PWA (Progressive Web App) for the best experience on Android and Desktop.
+
+
+## Youtube
+
+Installing Youtube as a PWA on mobile is a bit jank, since m.youtube.com can't be installed as a web app, but the desktop version can.
+
+For mobile devices:
+1. Visit Youtube in your browser
+2. In the browser dropdown settings:
+    1. Switch ON Desktop Site
+    2. Add Page to Home Screen (should pop up option to install)
+    3. Switch OFF Desktop Site (i.e. back to the mobile version of the site)
+
+### Youtube Mobile Filters
+
+**Raw file URL:** https://raw.githubusercontent.com/donle3/timesaving-adblock-filters/refs/heads/main/lists/YoutubeMobileFilters.txt
+
+This list filters out algorithm-based scrolling feeds (home page, related videos under current video) and reduces appearances of shorts in the nav bar, search results, subscriptions, and history.
+With this list only, you can still technically access shorts via a direct link or through a channel's shorts tab, but only the first video can be seen; subsequent videos are blacked out (though you can still hear them).
